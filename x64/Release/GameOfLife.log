@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameOfLife.vcxproj -> D:\VisualStudio\GameOfLife\GameOfLife\x64\Release\GameOfLife.exe
